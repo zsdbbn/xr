@@ -1,6 +1,4 @@
 
-Example :
-USER 10014
 FROM nginx:latest
 EXPOSE 8080
 WORKDIR /app
